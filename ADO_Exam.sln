@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Exam.Lib", "ADO_Exam.Lib\ADO_Exam.Lib.csproj", "{FF1463DF-9C55-4F1E-88DC-9CAA7F78F00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Exam.Model", "ADO_Exam.Model\ADO_Exam.Model.csproj", "{670C3CB7-F89B-4736-B2AE-A9475FF3628E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Exam_App", "ADO_Exam_App\ADO_Exam_App.csproj", "{4B51F95C-9322-4146-92AD-B773C12CC5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1463DF-9C55-4F1E-88DC-9CAA7F78F00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1463DF-9C55-4F1E-88DC-9CAA7F78F00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1463DF-9C55-4F1E-88DC-9CAA7F78F00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1463DF-9C55-4F1E-88DC-9CAA7F78F00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670C3CB7-F89B-4736-B2AE-A9475FF3628E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670C3CB7-F89B-4736-B2AE-A9475FF3628E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670C3CB7-F89B-4736-B2AE-A9475FF3628E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670C3CB7-F89B-4736-B2AE-A9475FF3628E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B51F95C-9322-4146-92AD-B773C12CC5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B51F95C-9322-4146-92AD-B773C12CC5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B51F95C-9322-4146-92AD-B773C12CC5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B51F95C-9322-4146-92AD-B773C12CC5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
